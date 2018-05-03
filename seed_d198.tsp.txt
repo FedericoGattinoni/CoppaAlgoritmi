@@ -1,0 +1,3 @@
+--------------------------------------
+seed: 1525369770360 tour length: 15783 phi: 0.17 alpha: 0.17 q: 0.85 numero formiche: 3
+seed: 1525369930397 tour length: 15780 phi: 0.17 alpha: 0.17 q: 0.91 numero formiche: 1

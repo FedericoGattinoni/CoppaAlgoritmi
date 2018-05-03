@@ -1,0 +1,5 @@
+u1060.tsp -> seed: 1524878334909 tour length: 232188
+pcb442.tsp -> seed: 1524885154970 tour length: 51289
+rat783.tsp -> seed: 1524890339059 tour length: 9149
+pr439.tsp -> seed: 1524893413202 tour length: 107294
+fl1577.tsp -> seed: 1524964890767 tour length: 22668
