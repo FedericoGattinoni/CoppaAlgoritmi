@@ -24,16 +24,13 @@ public class Main {
         }, 3, TimeUnit.MINUTES);
 
         TSPReader tspReader = TSPReader.getInstance();
-<<<<<<< HEAD
-        System.out.println(args[0]);
-        String fileName = /*"u1060.tsp"*/args[0];
-=======
-        if( args.length == 0 ){
+
+        if( args.length < 2 ){
             System.out.println("Number of parameters not correct");
             System.exit(1);
         }
+
         String fileName = args[0];
->>>>>>> master
         long seed = Long.parseLong(args[1]);
         ArrayList<FileReader.City> cities = tspReader.read(fileName);
         int[][] distanceMatrix = generateDistanceMatrix(cities);
