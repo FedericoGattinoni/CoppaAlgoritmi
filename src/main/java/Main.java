@@ -24,11 +24,13 @@ public class Main {
         }, 3, TimeUnit.MINUTES);
 
         TSPReader tspReader = TSPReader.getInstance();
-        String fileName = "ch130.tsp";
+        System.out.println(args[0]);
+        String fileName = /*"u1060.tsp"*/args[0];
+        long seed = Long.parseLong(args[1]);
         ArrayList<FileReader.City> cities = tspReader.read(fileName);
         int[][] distanceMatrix = generateDistanceMatrix(cities);
 
-        Random random = new Random(1525369657014l);
+        Random random = new Random(seed);
 
         Algorithm nn = new NearestNeighbour(distanceMatrix, random);
         ArrayList<Integer> tour = nn.run();

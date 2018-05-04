@@ -1,6 +1,7 @@
 import Algorithms.ACS;
 import Algorithms.Algorithm;
 import Algorithms.NearestNeighbour;
+import Algorithms.TwoOpt;
 import FileReader.City;
 import FileReader.TSPReader;
 
@@ -17,7 +18,7 @@ public class UnAlgoritmoCiclicamente {
         int tourLength = Integer.MAX_VALUE;
 
         TSPReader tspReader = TSPReader.getInstance();
-        String fileName = "u1060.tsp";
+        String fileName = "pr439.tsp";
         ArrayList<City> cities = tspReader.read(fileName);
         int bestSize = tspReader.getBestSize();
         System.out.println(fileName + " -> best size = " + bestSize);
@@ -39,8 +40,7 @@ public class UnAlgoritmoCiclicamente {
                 int numAnts = random.nextInt(2) + 1;
 
                 Algorithm acs = new ACS(distanceMatrix, nnei, random, tour, tspReader.getBestSize(), cities, phi, q, numAnts);
-                acs.run();
-
+                tour = acs.run();
 
                 if ((acs.getTourLength() < tourLength)) {
                     tourLength = acs.getTourLength();
@@ -53,7 +53,6 @@ public class UnAlgoritmoCiclicamente {
                     System.out.println("Best size !!");
                     System.exit(0);
                 }
-
             }
         } catch (IOException ex) {
             ex.printStackTrace();

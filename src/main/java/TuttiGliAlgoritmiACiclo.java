@@ -45,7 +45,7 @@ public class TuttiGliAlgoritmiACiclo {
                 long seed = System.currentTimeMillis();
                 Random random = new Random(seed);
 
-                Algorithms.Algorithm nn = new Algorithms.NearestNeighbour(distanceMatrix.get(i), random);
+                Algorithm nn = new Algorithms.NearestNeighbour(distanceMatrix.get(i), random);
                 ArrayList<Integer> tour = nn.run();
                 int nnei = nn.getTourLength();
 

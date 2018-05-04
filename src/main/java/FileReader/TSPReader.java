@@ -21,8 +21,6 @@ public class TSPReader {
     }
 
     public static ArrayList<City> read(String fileName) {
-        fileName = "./src/main/java/ALGO_cup_2018_problems/" + fileName;
-
         ArrayList<City> cities = new ArrayList<>();
         int numberLine = 0;
 

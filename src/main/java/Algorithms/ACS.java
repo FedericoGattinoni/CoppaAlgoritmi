@@ -54,7 +54,7 @@ public class ACS implements Algorithm {
         long start = System.currentTimeMillis();
         long stop = System.currentTimeMillis();
 
-        while ((stop - start) < 160000) {
+        while ((stop - start) < 170000) {
             Ant[] ants = new Ant[ANTS_NUMBER];
             //create ANT population
             for (int i = 0; i < ANTS_NUMBER; i++) {
