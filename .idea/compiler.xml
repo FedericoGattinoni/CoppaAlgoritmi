@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CoppaAlgoritmi" />
+        <module name="Coppa" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CoppaAlgoritmi" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

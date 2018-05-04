@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="CoppaAlgoritmi:jar" />
-    </artifacts-to-build>
-  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -27,8 +22,47 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b58c362c-5170-4284-9f37-6828019c7227" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="91619ca7-1d11-4510-9485-d8be33594d48" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CoppaAlgoritmi_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoppaAlgoritmi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_fl1577.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_fl1577.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_lin318.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_lin318.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_pcb442.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_pcb442.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_pr439.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_pr439.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_rat783.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_rat783.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_u1060.tsp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seed_u1060.tsp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/ch130.opt.tour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/ch130.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/d198.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/eil76.opt.tour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/eil76.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/fl1577.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/kroA100.opt.tour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/kroA100.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/lin318.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/pcb442.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/pr439.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/rat783.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ALGO_cup_2018_problems/u1060.tsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/ACS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/ACS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CoppaAlgoritmi_DOC.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoppaAlgoritmi_DOC.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tspTourChecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/tspTourChecker.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,119 +73,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ACS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ACS.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2567">
-              <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#exploitation#0;class#ACS#0" />
-                <element signature="method#globalTrailUpdating#0;class#ACS#0" />
-                <element signature="method#localTrailUpdating#0;class#ACS#0" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TSPReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#checkIntegrity#0;class#Main#0" />
-                <element signature="method#tourLength#0;class#Main#0" />
-                <element signature="method#createDistanceMatrix#0;class#Main#0" />
-                <element signature="method#printTour#0;class#Main#0" />
-                <element signature="method#printMatrix#0;class#Main#0" />
-                <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnAlgoritmoCiclicamente.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#generateDistanceMatrix#0;class#UnAlgoritmoCiclicamente#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="221">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>antTours</find>
-      <find>-1</find>
-      <find>Tour le</find>
-      <find>getTour</find>
-      <find>rand</find>
-      <find>Exploration</find>
-      <find>Explo</find>
-      <find>Explora</find>
-      <find>System.out</find>
-      <find>Tour length</find>
-      <find>tourLength</find>
-      <find>getTourLeng</find>
-      <find>--------- &gt; NEW BEST</find>
-      <find>10</find>
-      <find>100</find>
-      <find>newTou</find>
-      <find>FileNoot</find>
-      <find>tour</find>
-      <find>bestTour</find>
-      <find>fl1577.tsp</find>
-      <find>2275</find>
-      <find>pcb442.tsp</find>
-      <find>pr439.tsp</find>
-      <find>rat783.tsp</find>
-      <find>u1060.tsp</find>
-      <find>i</find>
-      <find>236905</find>
-      <find>random</find>
-      <find>0.84</find>
-      <find>0.8</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -159,44 +110,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/City.java" />
-        <option value="$PROJECT_DIR$/src/RandomAlgorthm.java" />
-        <option value="$PROJECT_DIR$/src/Random.java" />
-        <option value="$PROJECT_DIR$/src/TSPReader.java" />
-        <option value="$PROJECT_DIR$/src/ThreeOpt.java" />
-        <option value="$PROJECT_DIR$/src/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/Revert.java" />
-        <option value="$PROJECT_DIR$/src/Ant.java" />
-        <option value="$PROJECT_DIR$/src/TwoOpt.java" />
-        <option value="$PROJECT_DIR$/src/Prova.java" />
-        <option value="$PROJECT_DIR$/src/NearestNeighbour.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/ACS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TSPReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ACS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TwoOpt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Algorithms/Algorithm.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java" />
-        <option value="$PROJECT_DIR$/seed_fl1577.tsp.txt" />
-        <option value="$PROJECT_DIR$/seed_pcb442.tsp.txt" />
-        <option value="$PROJECT_DIR$/seed_pr439.tsp.txt" />
-        <option value="$PROJECT_DIR$/seed_rat783.tsp.txt" />
-        <option value="$PROJECT_DIR$/nightSeed.txt" />
-        <option value="$PROJECT_DIR$/seed.txt" />
-        <option value="$PROJECT_DIR$/seed_ch130.tsp.txt" />
-        <option value="$PROJECT_DIR$/seed_eil76.tsp.txt" />
-        <option value="$PROJECT_DIR$/seed_d198.tsp.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Algorithms/ACS.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/seed_u1060.tsp.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Prova.java" />
-        <option value="$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TempoTO.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -218,40 +133,28 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CoppaAlgoritmi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Coppa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CoppaAlgoritmi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Coppa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CoppaAlgoritmi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CoppaAlgoritmi" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="assembly" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,71 +162,25 @@
               <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="CoppaAlgoritmi_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Ingegneria Software 2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi\out\production\CoppaAlgoritmi" />
-      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi\out\production\CoppaAlgoritmi\META-INF" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi\src\main\java" />
-      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi" />
-      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi\src\main\resources" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -337,35 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CoppaAlgoritmi" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Prova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prova" />
-      <module name="CoppaAlgoritmi" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Revert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revert" />
-      <module name="CoppaAlgoritmi" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="TempoTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TempoTO" />
-      <module name="CoppaAlgoritmi" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="UnAlgoritmoCiclicamente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UnAlgoritmoCiclicamente" />
-      <module name="CoppaAlgoritmi" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -407,104 +236,24 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Prova" />
-      <item itemvalue="Application.Revert" />
-      <item itemvalue="Application.UnAlgoritmoCiclicamente" />
-      <item itemvalue="Application.TempoTO" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TempoTO" />
-        <item itemvalue="Application.UnAlgoritmoCiclicamente" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Prova" />
-        <item itemvalue="Application.Revert" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b58c362c-5170-4284-9f37-6828019c7227" name="Default" comment="" />
-      <created>1521019504618</created>
+      <changelist id="91619ca7-1d11-4510-9485-d8be33594d48" name="Default" comment="" />
+      <created>1525429580280</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521019504618</updated>
-      <workItem from="1521019507414" duration="6230000" />
-      <workItem from="1521027694243" duration="76000" />
-      <workItem from="1521106091248" duration="15000" />
-      <workItem from="1521479829957" duration="1971000" />
-      <workItem from="1521493003992" duration="97000" />
-      <workItem from="1521623416378" duration="4686000" />
-      <workItem from="1521659504056" duration="3107000" />
-      <workItem from="1521704618210" duration="269000" />
-      <workItem from="1521713507479" duration="1656000" />
-      <workItem from="1521892699327" duration="6850000" />
-      <workItem from="1522068720365" duration="2691000" />
-      <workItem from="1522224888142" duration="6778000" />
-      <workItem from="1522258976413" duration="3539000" />
-      <workItem from="1522305082133" duration="52000" />
-      <workItem from="1522305532076" duration="1203000" />
-      <workItem from="1522752725147" duration="1018000" />
-      <workItem from="1522754203966" duration="13565000" />
-      <workItem from="1522838893048" duration="406000" />
-      <workItem from="1522839354942" duration="208000" />
-      <workItem from="1522839620976" duration="5210000" />
-      <workItem from="1523261993376" duration="5236000" />
-      <workItem from="1523434666278" duration="756000" />
-      <workItem from="1523516978417" duration="21000" />
-      <workItem from="1523877224834" duration="1054000" />
-      <workItem from="1523886186764" duration="15000" />
-      <workItem from="1523898686506" duration="958000" />
-      <workItem from="1524061412071" duration="5130000" />
-      <workItem from="1524131713425" duration="3855000" />
-      <workItem from="1524221413391" duration="1215000" />
-      <workItem from="1524242690112" duration="96000" />
-      <workItem from="1524320359076" duration="5996000" />
-      <workItem from="1524347939686" duration="1369000" />
-      <workItem from="1524391539372" duration="3297000" />
-      <workItem from="1524482020898" duration="7592000" />
-      <workItem from="1524500755901" duration="13876000" />
-      <workItem from="1524556173962" duration="23679000" />
-      <workItem from="1524643936482" duration="19882000" />
-      <workItem from="1524672751547" duration="19105000" />
-      <workItem from="1524724118287" duration="18238000" />
-      <workItem from="1524762002466" duration="8695000" />
-      <workItem from="1524810426180" duration="240000" />
-      <workItem from="1524810890963" duration="9123000" />
-      <workItem from="1524845217746" duration="12773000" />
-      <workItem from="1524960620913" duration="891000" />
-      <workItem from="1524997035376" duration="2713000" />
-      <workItem from="1525076603271" duration="10491000" />
-      <workItem from="1525104549128" duration="2253000" />
-      <workItem from="1525108803077" duration="6149000" />
-      <workItem from="1525178195752" duration="8761000" />
-      <workItem from="1525209348647" duration="2215000" />
-      <workItem from="1525250973664" duration="17300000" />
-      <workItem from="1525279400961" duration="36652000" />
-      <workItem from="1525377881650" duration="88000" />
+      <updated>1525429580280</updated>
+      <workItem from="1525429583955" duration="848000" />
+      <workItem from="1525433521839" duration="201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309341000" />
+    <option name="totallyTimeSpent" value="1049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -512,33 +261,33 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.09914712" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39978212" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15245202" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13646056" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
       <window_info anchor="bottom" id="TeamCity" order="7" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,425 +296,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="18" />
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ACS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#exploitation#0;class#ACS#0" />
-            <element signature="method#globalTrailUpdating#0;class#ACS#0" />
-            <element signature="method#localTrailUpdating#0;class#ACS#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="38" column="51" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generateDistanceMatrix#0;class#UnAlgoritmoCiclicamente#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        <state relative-caret-position="391">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="60" column="14" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="14" />
+        <state relative-caret-position="102">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RandomAlgorthm.java" />
-    <entry file="file://$PROJECT_DIR$/tspTourChecker.py" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/PrintStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="994" column="19" selection-start-line="994" selection-start-column="19" selection-end-line="994" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Revert.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/City.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ThreeOpt.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/Ant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seed_d198.tsp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="70" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/Algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nightSeed.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ACS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="156" column="14" selection-start-line="156" selection-start-column="14" selection-end-line="156" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#exploitation#0;class#ACS#0" />
-            <element signature="method#globalTrailUpdating#0;class#ACS#0" />
-            <element signature="method#localTrailUpdating#0;class#ACS#0" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="39" column="79" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/seed_pr439.tsp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seed_fl1577.tsp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="94" column="23" selection-start-line="94" selection-start-column="23" selection-end-line="94" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/seed_kroa100.tsp.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Prova.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/TempoTO.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkIntegrity#0;class#Main#0" />
-            <element signature="method#tourLength#0;class#Main#0" />
-            <element signature="method#createDistanceMatrix#0;class#Main#0" />
-            <element signature="method#printTour#0;class#Main#0" />
-            <element signature="method#printMatrix#0;class#Main#0" />
-            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generateDistanceMatrix#0;class#TuttiGliAlgoritmiACiclo#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#generateDistanceMatrix#0;class#UnAlgoritmoCiclicamente#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="221">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -975,12 +345,10 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>CoppaAlgoritmi:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1023,7 +391,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CoppaAlgoritmi</last-edited>
+          <last-edited>Coppa</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -9,3 +9,13 @@ seed: 1525372661299 tour length: 235820 phi: 0.15 alpha: 0.15 q: 0.94 numero for
 seed: 1525373642707 tour length: 235750 phi: 0.14 alpha: 0.14 q: 0.91 numero formiche: 1
 seed: 1525374957743 tour length: 234943 phi: 0.14 alpha: 0.14 q: 0.93 numero formiche: 2
 seed: 1525376101075 tour length: 233476 phi: 0.1 alpha: 0.1 q: 0.95 numero formiche: 1
+--------------------------------------
+--------------------------------------
+seed: 1525383816674 tour length: 237747 phi: 0.15 alpha: 0.15 q: 0.86 numero formiche: 2
+seed: 1525383995309 tour length: 237595 phi: 0.19 alpha: 0.19 q: 0.86 numero formiche: 1
+seed: 1525384166760 tour length: 237000 phi: 0.18 alpha: 0.18 q: 0.89 numero formiche: 1
+seed: 1525384336944 tour length: 234754 phi: 0.11 alpha: 0.11 q: 0.93 numero formiche: 1
+--------------------------------------
+seed: 1525393131000 tour length: 232878 phi: 0.1 alpha: 0.1 q: 0.91 numero formiche: 2
+--------------------------------------
+--------------------------------------
