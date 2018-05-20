@@ -65,14 +65,8 @@ public class TwoOpt implements Algorithm {
     private void exchange(int best_i, int best_j) {
         int next_i = (best_i + 1) % tour.size();
 
-        int a, b;
-        if (next_i < best_j) {
-            a = next_i;
-            b = best_j;
-        } else {
-            a = best_j;
-            b = next_i;
-        }
+        int a = next_i;
+        int b = best_j;
 
         while (a < b && a != b) {
             Collections.swap(tour, a, b);

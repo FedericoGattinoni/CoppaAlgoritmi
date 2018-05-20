@@ -72,20 +72,22 @@ public class TSPReader {
         return cities;
     }
 
-    public static boolean write(final String fileName, final String file, final ArrayList<Integer> route, final int distance_length) {
+    public static boolean write(final String fileName, final ArrayList<Integer> route, final int distance_length) {
         try {
-            String path = "./src/main/java/ALGO_cup_2018_problems/" + fileName;
 
-            PrintStream ps = new PrintStream(new FileOutputStream(path));
+            String fileOutputName = fileName+".opt.tour";
+            String fileOutputPath = "./OptimalTour/"+fileOutputName;
 
-            ps.println("NAME : " + fileName);
-            ps.println("COMMENT : Optimum tour for " + file + " (" + distance_length + ")");
+            PrintStream ps = new PrintStream(new FileOutputStream(fileOutputPath));
+
+            ps.println("NAME : " + fileOutputName);
+            ps.println("COMMENT : Optimum tour for " + fileName + " (" + distance_length + ")");
             ps.println("TYPE : TOUR");
             ps.println("DIMENSION : " + route.size());
             ps.println("TOUR_SECTION");
 
             for (int i = 0; i < route.size(); i++) {
-                ps.println(route.get(i));
+                ps.println(route.get(i)+1);
             }
             ps.println("EOF");
 

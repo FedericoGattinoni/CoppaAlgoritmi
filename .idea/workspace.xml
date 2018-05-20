@@ -23,29 +23,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91619ca7-1d11-4510-9485-d8be33594d48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainIteration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/ch130.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/ch130.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/d198.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/d198.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/eil76.opt.tour" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/eil76.opt.tour" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/eil76.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/eil76.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/fl1577.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/fl1577.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/kroA100.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/kroA100.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/lin318.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/lin318.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/pcb442.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/pcb442.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/pr439.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/pr439.tsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/ch130.opt.tour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/kroA100.opt.tour" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/kroA100.opt.tour" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/rat783.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/rat783.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALGO_cup_2018_problems/u1060.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/ALGO_cup_2018_problems/u1060.tsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coppa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Coppa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CoppaAlgoritmi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nightSeed.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/original-CoppaAlgoritmi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_ch130.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_d198.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_eil76.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_fl1577.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_kroa100.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_lin318.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_pcb442.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_pr439.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_rat783.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seed_u1060.tsp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CoppaAlgoritmi_DOC.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReader/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Coppa-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Coppa-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Algorithms/TwoOpt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Algorithms/TwoOpt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CoppaAlgoritmi_DOC.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FileReader/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileReader/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FileReader/TSPReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FileReader/TSPReader.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tspTourChecker.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,11 +68,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="1037">
+              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+              <folding>
+                <element signature="method#createDistanceMatrix#0;class#Main#0" />
+                <element signature="method#printTour#0;class#Main#0" />
+                <element signature="method#printMatrix#0;class#Main#0" />
+                <element signature="method#generateDistanceMatrix#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CandidateList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CandidateList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,31 +98,93 @@
       <file leaf-file-name="TSPReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            <state relative-caret-position="-88">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state relative-caret-position="439">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+              <folding>
+                <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainIteration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MainIteration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tourLength</find>
+      <find>1074</find>
+      <find>232</find>
+      <find>args[1]</find>
+      <find>tour</find>
+      <find>Rand</find>
+      <find>Random</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/MainIteration.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java" />
+        <option value="$PROJECT_DIR$/seed_pcb442.tsp.txt" />
+        <option value="$PROJECT_DIR$/seed_pr439.tsp.txt" />
+        <option value="$PROJECT_DIR$/Seed/seed_pcb442.tsp.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
+        <option value="$PROJECT_DIR$/Seed/seed_u1060.tsp.txt" />
+        <option value="$PROJECT_DIR$/Seed/seed_lin318.tsp.txt" />
+        <option value="$PROJECT_DIR$/Seed/seed_pr439.tsp.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Algorithms/ACS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SearchSeed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Prova.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainIteration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileReader/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CandidateList.java" />
       </list>
     </option>
   </component>
@@ -128,9 +218,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="974" />
+    <option name="x" value="-7" />
+    <option name="width" value="1128" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -139,7 +228,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,23 +236,62 @@
               <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
               <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CoppaAlgoritmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoppaAlgoritmi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="FileReader" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Ingegneria Software 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Federico\Desktop\SUPSI\AlgoritmiAvanzati\CoppaAlgoritmi\src\main\java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,7 +305,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CandidateList">
+    <configuration name="CandidateList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CandidateList" />
+      <module name="Coppa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Coppa" />
+      <option name="PROGRAM_PARAMETERS" value="./ALGO_cup_2018_problems/pr439.tsp 1526732774214" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MainIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainIteration" />
+      <module name="Coppa" />
+      <option name="PROGRAM_PARAMETERS" value="./ALGO_cup_2018_problems/fl1577.tsp YES" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Prova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prova" />
+      <module name="Coppa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="SearchSeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchSeed" />
+      <module name="Coppa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -219,6 +374,21 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.CandidateList" />
+      <item itemvalue="Application.Prova" />
+      <item itemvalue="Application.SearchSeed" />
+      <item itemvalue="Application.MainIteration" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CandidateList" />
+        <item itemvalue="Application.MainIteration" />
+        <item itemvalue="Application.Prova" />
+        <item itemvalue="Application.SearchSeed" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -231,12 +401,25 @@
       <option name="presentableId" value="Default" />
       <updated>1525429580280</updated>
       <workItem from="1525429583955" duration="848000" />
-      <workItem from="1525434462313" duration="188000" />
+      <workItem from="1525434462313" duration="368000" />
+      <workItem from="1525435953893" duration="1514000" />
+      <workItem from="1525438581391" duration="566000" />
+      <workItem from="1525453096537" duration="18859000" />
+      <workItem from="1525506385550" duration="6813000" />
+      <workItem from="1525525837444" duration="389000" />
+      <workItem from="1525795401315" duration="435000" />
+      <workItem from="1525862219766" duration="4385000" />
+      <workItem from="1525876617882" duration="4649000" />
+      <workItem from="1525948940557" duration="2418000" />
+      <workItem from="1525971765116" duration="107000" />
+      <workItem from="1526667351203" duration="7911000" />
+      <workItem from="1526725264949" duration="7061000" />
+      <workItem from="1526748614071" duration="2928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1036000" />
+    <option name="totallyTimeSpent" value="59251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -244,34 +427,65 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13646056" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.114072494" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
-      <window_info anchor="bottom" id="TeamCity" order="7" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32135075" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21459696" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1663113" />
+      <window_info anchor="bottom" id="TeamCity" order="8" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32897604" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21459696" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16311301" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32135075" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="TeamCity" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32897604" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.114072494" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -280,6 +494,116 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Seed/seed_lin318.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_rat783.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Seed/seed_u1060.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ACS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="97" column="56" selection-start-line="97" selection-start-column="56" selection-end-line="97" selection-end-column="56" />
+          <folding>
+            <element signature="method#exploitation#0;class#ACS#0" />
+            <element signature="method#globalTrailUpdating#0;class#ACS#0" />
+            <element signature="method#localTrailUpdating#0;class#ACS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="111" column="5" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+          <folding>
+            <element signature="method#createDistanceMatrix#0;class#Main#0" />
+            <element signature="method#printTour#0;class#Main#0" />
+            <element signature="method#printMatrix#0;class#Main#0" />
+            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seed/seed_u1060.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="method#createDistanceMatrix#0;class#Main#0" />
+            <element signature="method#printTour#0;class#Main#0" />
+            <element signature="method#printMatrix#0;class#Main#0" />
+            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -301,24 +625,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+    <entry file="file://$PROJECT_DIR$/seed_fl1577.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/seed_lin318.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/seed_pcb442.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/seed_rat783.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/seed_pr439.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/seed_u1060.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_u1060.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UnAlgoritmoCiclicamente.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seed/seed_pr439.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_lin318.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TuttiGliAlgoritmiACiclo.java" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_fl1577.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_rat783.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Seed/seed_u1060.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/Seed/seed_pcb442.tsp.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/NearestNeighbour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/ACS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2601">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+          <folding>
+            <element signature="method#exploitation#0;class#ACS#0" />
+            <element signature="method#globalTrailUpdating#0;class#ACS#0" />
+            <element signature="method#localTrailUpdating#0;class#ACS#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Algorithms/TwoOpt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Prova.java" />
+    <entry file="file://$PROJECT_DIR$/Coppa.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="459">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="1037">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+          <folding>
+            <element signature="method#createDistanceMatrix#0;class#Main#0" />
+            <element signature="method#printTour#0;class#Main#0" />
+            <element signature="method#printMatrix#0;class#Main#0" />
+            <element signature="method#generateDistanceMatrix#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="38" column="57" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/TSPReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReader/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CandidateList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
