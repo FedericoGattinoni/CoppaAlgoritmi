@@ -25,6 +25,7 @@ public class NearestNeighbour implements Algorithm {
         ArrayList<Integer> tour = new ArrayList<>();
 
         int current = random.nextInt(distanceMatrix.length);
+        System.out.println("First node: "+current);
         int minimum = Integer.MAX_VALUE;
         int index = -1;
 

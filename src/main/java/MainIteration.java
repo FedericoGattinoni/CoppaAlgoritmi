@@ -23,7 +23,7 @@ public class MainIteration {
 
 
         if( args.length < 1 ) {
-            System.out.println("Numero parametri non corretti");
+            System.out.println("Numero parametri non corretti: java -jar CoppaAlgoritmi.jar tspFile -cl candidate list elements (-s seed)");
             System.exit(-1);
         }
 
@@ -33,8 +33,11 @@ public class MainIteration {
         ArrayList<City> cities = tspReader.read(fileName);
         int[][] distanceMatrix = Main.generateDistanceMatrix(cities);
 
+        int candidateListElements = Integer.parseInt(args[1]);
+        Main.createCandidateList(cities, distanceMatrix, candidateListElements);
+
         boolean withSeed;
-        if( args[1].equals("YES")) {
+        if( args[2].equals("YES")) {
             withSeed = true;
             System.out.println("With random parameters");
         }else {

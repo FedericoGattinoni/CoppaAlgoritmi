@@ -27,7 +27,7 @@ public class Main {
 
 
         if( args.length < 1 ) {
-            System.out.println("Numero parametri non corretti");
+            System.out.println("Numero parametri non corretti: java -jar CoppaAlgoritmi.jar tspFile -cl candidate list elements (-s seed)");
             System.exit(-1);
         }
 
@@ -40,9 +40,14 @@ public class Main {
         String fileName = pointSplit[0];
         System.out.println("------"+fileName+"-------");
 
+        //candidate list
+        //int clElements = Integer.parseInt(args[2]);
+
+        //seed random
         long seed;
         Random random;
-        if(args.length == 2) {
+        //if(args[3].equals("-s")) {
+        if(args.length == 2 ) {
             seed = Long.parseLong(args[1]);
             random = new Random(seed);
         }
@@ -120,7 +125,7 @@ public class Main {
         return distanceMatrix;
     }
 
-    private static void printTour(ArrayList<Integer> tour) {
+    public static void printTour(ArrayList<Integer> tour) {
         System.out.println("\n------------Tour------------");
         for (int i = 0; i < tour.size(); i++) {
             //System.out.print(tour.get(i) + " -> ");
@@ -159,7 +164,7 @@ public class Main {
         return distanceMatrix;
     }
 
-    private static void createCandidateList(ArrayList<City> cities, int[][] distanceMatrix, int numElements){
+    public static void createCandidateList(ArrayList<City> cities, int[][] distanceMatrix, int numElements){
         //per ogni città
         int numCities = distanceMatrix.length;
 
@@ -183,7 +188,6 @@ public class Main {
                 maxCities = -1;
                 minValue = Integer.MAX_VALUE;
             }
-            System.out.println(candidateList);
             cities.get(i).setCandidateList(candidateList);
 
         }
